@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/shutdown.svg</file>
+        <file>images/reboot.svg</file>
+        <file>images/logout.svg</file>
+        <file>images/suspend.svg</file>
+        <file>images/brightness.svg</file>
+        <file>images/volume.svg</file>
+        <file>Components/SciFiGridBackground.qml</file>
+        <file>Components/SinWaveBackground.qml</file>
+        <file>Components/HexBattery.qml</file>
+        <file>Components/HexClock.qml</file>
+        <file>Components/HexNetwork.qml</file>
+        <file>Components/HexPower.qml</file>
+        <file>Components/HexWeather.qml</file>
+        <file>Components/HelpDialog.qml</file>
+
+    </qresource>
+</RCC>
